@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="campo_nombre">Nombre completo: </string>
+    <string name="campo_telefono">Telefono: </string>
+    <string name="campo_email">Email: </string>
+    <string name="campo_descripcion">Descripción contacto: </string>
+    <string name="button_siguiente">Siguiente</string>
+    <string name="titulo">CONFIRMAR DATOS</string>
+    <string name="button_editar">Editar Datos</string>
+    <string name="keyNombre">Nombre</string>
+    <string name="keyFecha">Fecha</string>
+    <string name="keyTelefono">Telefono</string>
+    <string name="keyEmail">Email</string>
+    <string name="keyDescripcion">Descripcion</string>
+    <string name="elegirFecha">Elige Fecha</string>
+</resources>
